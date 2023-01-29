@@ -1,4 +1,4 @@
-# TatsuyaKyoya.github.io
+# TatsuyaKyoya
 
 # this is test
 
